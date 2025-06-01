@@ -1,4 +1,4 @@
-package manipulandoArquivosComFile;
+package trabalhandoComArquivos.manipulandoArquivosComFile;
 
 import java.io.File;
 import java.util.Scanner;
