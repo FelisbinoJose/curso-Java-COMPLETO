@@ -1,4 +1,4 @@
-package interfaces.solucaoProblema.parte_1.model.entities;
+package interfaces.solucaoProblema.model.entities;
 
 import java.time.LocalDateTime;
 

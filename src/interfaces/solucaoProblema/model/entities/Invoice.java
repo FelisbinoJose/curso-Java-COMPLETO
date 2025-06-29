@@ -1,4 +1,4 @@
-package interfaces.solucaoProblema.parte_1.model.entities;
+package interfaces.solucaoProblema.model.entities;
 
 public class Invoice {
 
@@ -30,6 +30,6 @@ public class Invoice {
     }
 
     public Double getTotalPayment(){
-        return getBasicPayment() - getTax();
+        return getBasicPayment() + getTax();
     }
 }
